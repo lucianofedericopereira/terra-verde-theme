@@ -1,0 +1,54 @@
+{
+    "name": "terra-verde-theme",
+    "displayName": "Terra Verde",
+    "description": "Earthy green light theme — warm off-whites, forest greens, terracotta accents. Easy on the eyes.",
+    "version": "1.0.0",
+    "publisher": "lucianofedericopereira",
+    "license": "Apache-2.0",
+    "icon": "icon.png",
+    "author": {
+        "name": "Luciano Federico Pereira",
+        "url": "https://github.com/lucianofedericopereira"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lucianofedericopereira/terra-verde-theme.git"
+    },
+    "homepage": "https://github.com/lucianofedericopereira/terra-verde-theme#readme",
+    "bugs": {
+        "url": "https://github.com/lucianofedericopereira/terra-verde-theme/issues"
+    },
+    "engines": {
+        "vscode": "^1.80.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "light",
+        "green",
+        "earthy",
+        "nature",
+        "terra",
+        "forest",
+        "warm",
+        "terracotta",
+        "off-white",
+        "color-theme"
+    ],
+    "preview": false,
+    "galleryBanner": {
+        "color": "#E8DCC8",
+        "theme": "light"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Terra Verde",
+                "uiTheme": "vs",
+                "path": "./themes/terra-verde.json"
+            }
+        ]
+    }
+}

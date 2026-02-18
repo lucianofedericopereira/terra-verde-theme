@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 260" width="480" height="260" font-family="ui-sans-serif, system-ui, sans-serif">
+
+  <!-- Background -->
+  <rect width="480" height="260" fill="#F6F5EF" rx="14"/>
+
+  <!-- Row 1 -->
+
+  <!-- 1: Background -->
+  <rect x="20" y="18" width="72" height="72" rx="10" fill="#F6F5EF" stroke="#D0CFC5" stroke-width="1.5"/>
+  <text x="56" y="106" text-anchor="middle" font-size="10" fill="#2C2C2C">Background</text>
+  <text x="56" y="119" text-anchor="middle" font-size="9" fill="#8A8778">#F6F5EF</text>
+
+  <!-- 2: Foreground -->
+  <rect x="108" y="18" width="72" height="72" rx="10" fill="#2C2C2C"/>
+  <text x="144" y="106" text-anchor="middle" font-size="10" fill="#2C2C2C">Foreground</text>
+  <text x="144" y="119" text-anchor="middle" font-size="9" fill="#8A8778">#2C2C2C</text>
+
+  <!-- 3: Keywords -->
+  <rect x="196" y="18" width="72" height="72" rx="10" fill="#5A7A52"/>
+  <text x="232" y="106" text-anchor="middle" font-size="10" fill="#2C2C2C">Keywords</text>
+  <text x="232" y="119" text-anchor="middle" font-size="9" fill="#8A8778">#5A7A52</text>
+
+  <!-- 4: Functions -->
+  <rect x="284" y="18" width="72" height="72" rx="10" fill="#3A6A42"/>
+  <text x="320" y="106" text-anchor="middle" font-size="10" fill="#2C2C2C">Functions</text>
+  <text x="320" y="119" text-anchor="middle" font-size="9" fill="#8A8778">#3A6A42</text>
+
+  <!-- 5: Strings -->
+  <rect x="372" y="18" width="72" height="72" rx="10" fill="#8B6F4E"/>
+  <text x="408" y="106" text-anchor="middle" font-size="10" fill="#2C2C2C">Strings</text>
+  <text x="408" y="119" text-anchor="middle" font-size="9" fill="#8A8778">#8B6F4E</text>
+
+  <!-- Row 2 -->
+
+  <!-- 6: Constants -->
+  <rect x="20" y="138" width="72" height="72" rx="10" fill="#B07A3E"/>
+  <text x="56" y="226" text-anchor="middle" font-size="10" fill="#2C2C2C">Constants</text>
+  <text x="56" y="239" text-anchor="middle" font-size="9" fill="#8A8778">#B07A3E</text>
+
+  <!-- 7: Types -->
+  <rect x="108" y="138" width="72" height="72" rx="10" fill="#6B5D4A"/>
+  <text x="144" y="226" text-anchor="middle" font-size="10" fill="#2C2C2C">Types</text>
+  <text x="144" y="239" text-anchor="middle" font-size="9" fill="#8A8778">#6B5D4A</text>
+
+  <!-- 8: Interfaces -->
+  <rect x="196" y="138" width="72" height="72" rx="10" fill="#4A7A6E"/>
+  <text x="232" y="226" text-anchor="middle" font-size="10" fill="#2C2C2C">Interfaces</text>
+  <text x="232" y="239" text-anchor="middle" font-size="9" fill="#8A8778">#4A7A6E</text>
+
+  <!-- 9: Comments -->
+  <rect x="284" y="138" width="72" height="72" rx="10" fill="#8A8778"/>
+  <text x="320" y="226" text-anchor="middle" font-size="10" fill="#2C2C2C">Comments</text>
+  <text x="320" y="239" text-anchor="middle" font-size="9" fill="#8A8778">#8A8778</text>
+
+  <!-- 10: this -->
+  <rect x="372" y="138" width="72" height="72" rx="10" fill="#DA7756"/>
+  <text x="408" y="226" text-anchor="middle" font-size="10" fill="#2C2C2C">this</text>
+  <text x="408" y="239" text-anchor="middle" font-size="9" fill="#8A8778">#DA7756</text>
+
+</svg>
